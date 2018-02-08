@@ -1,0 +1,7 @@
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\bin\Debug\Teste.DAL.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\bin\Debug\Teste.DAL.pdb
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\bin\Debug\Dapper.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\bin\Debug\Dapper.xml
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\obj\Debug\Teste.DAL.csproj.CoreCompileInputs.cache
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\obj\Debug\Teste.DAL.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.DAL\obj\Debug\Teste.DAL.pdb

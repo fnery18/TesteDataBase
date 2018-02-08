@@ -1,0 +1,10 @@
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Teste.BLL.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Teste.BLL.pdb
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Teste.DAL.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Dapper.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Teste.DAL.pdb
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\bin\Debug\Dapper.xml
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\obj\Debug\Teste.BLL.csprojResolveAssemblyReference.cache
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\obj\Debug\Teste.BLL.csproj.CoreCompileInputs.cache
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\obj\Debug\Teste.BLL.dll
+C:\VisualStudio_Projects\source\repos\Teste\Teste.BLL\obj\Debug\Teste.BLL.pdb
